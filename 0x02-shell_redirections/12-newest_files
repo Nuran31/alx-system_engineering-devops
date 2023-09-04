@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -M . -type f | wc -l  
+sort -M . -type f | head 
